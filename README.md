@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anukrishnan9" target="blank"><img src="https://img.shields.io/twitter/follow/anukrishnan9?logo=twitter&style=for-the-badge" alt="anukrishnan9" /></a> </p>
 
-- 🌱 I’m currently learning **Nuxt 3, Pinia, Nest.js,**
+- 🌱 I’m currently learning Next.js, Dynamic Programming 
 
 - 💬 Ask me about **Javascript related queries**
 
